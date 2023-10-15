@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Egor\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Egor\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_LestaGamesAcademyTestTask.-1428511587.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Egor\AppData\Roaming\JetBrains\Rider2020.2\scratches" t="IncludeRecursive" />
+    <e p="D:\UnityProjects\LestaGamesAcademyTestTask" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Code" t="Include">
+          <e p="Infrastructure" t="Include">
+            <e p="AssetProvider" t="Include">
+              <e p="AssetProvider.cs" t="Include" />
+              <e p="IAssetProvider.cs" t="Include" />
+            </e>
+            <e p="Bootstrap.cs" t="Include" />
+            <e p="Constants" t="Include">
+              <e p="PrefabPaths.cs" t="Include" />
+              <e p="StaticDataPaths.cs" t="Include" />
+            </e>
+            <e p="Factories" t="Include">
+              <e p="GameFactory.cs" t="Include" />
+              <e p="IGameFactory.cs" t="Include" />
+            </e>
+            <e p="Game.cs" t="Include" />
+            <e p="GameRunner.cs" t="Include" />
+            <e p="ICoroutineRunner.cs" t="Include" />
+            <e p="SceneLoader.cs" t="Include" />
+            <e p="StateMachine" t="Include">
+              <e p="GameStateMachine.cs" t="Include" />
+              <e p="IGameStateMachine.cs" t="Include" />
+              <e p="IState.cs" t="Include" />
+              <e p="States" t="Include">
+                <e p="BootstrapState.cs" t="Include" />
+                <e p="GameOverState.cs" t="Include" />
+                <e p="GameState.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Update" t="Include">
+              <e p="ITickable.cs" t="Include" />
+              <e p="IUPdater.cs" t="Include" />
+              <e p="Updater.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Input" t="Include">
+            <e p="PlayerInputActions.cs" t="Include" />
+          </e>
+          <e p="Logic" t="Include">
+            <e p="Blocks" t="Include">
+              <e p="Block.cs" t="Include" />
+              <e p="BlockType.cs" t="Include" />
+              <e p="DamageTrap" t="Include">
+                <e p="DamageTarp.cs" t="Include" />
+                <e p="States" t="Include">
+                  <e p="DamageState.cs" t="Include" />
+                  <e p="DamageTrapState.cs" t="Include" />
+                  <e p="DisabledState.cs" t="Include" />
+                  <e p="EnabledState.cs" t="Include" />
+                  <e p="ReloadState.cs" t="Include" />
+                </e>
+              </e>
+              <e p="DefaultBlock" t="Include">
+                <e p="DefaultBlock.cs" t="Include" />
+              </e>
+              <e p="UpAndDown" t="Include">
+                <e p="UpAndDownTrap.cs" t="Include" />
+              </e>
+              <e p="WindTrap" t="Include">
+                <e p="WindTrap.cs" t="Include" />
+              </e>
+            </e>
+            <e p="DeathZoneTrigger.cs" t="Include" />
+            <e p="IDamageable.cs" t="Include" />
+            <e p="PlayerLogic" t="Include">
+              <e p="Player.cs" t="Include" />
+              <e p="PlayerCamera.cs" t="Include" />
+              <e p="PlayerDeath.cs" t="Include" />
+              <e p="PlayerHealth.cs" t="Include" />
+              <e p="PlayerJump.cs" t="Include" />
+              <e p="PlayerMovement.cs" t="Include" />
+            </e>
+            <e p="StartTrigger.cs" t="Include" />
+            <e p="Tiles" t="Include">
+              <e p="FinishTile.cs" t="Include" />
+              <e p="RoadTile.cs" t="Include" />
+              <e p="StartingTile.cs" t="Include" />
+              <e p="Tile.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Services" t="Include">
+            <e p="InputService" t="Include">
+              <e p="DesctopInputService.cs" t="Include" />
+              <e p="IInputService.cs" t="Include" />
+            </e>
+            <e p="IService.cs" t="Include" />
+            <e p="LevelGenerationService" t="Include">
+              <e p="ILevelGenerationService.cs" t="Include" />
+              <e p="LevelGenerationService.cs" t="Include" />
+            </e>
+            <e p="ServiceLocator.cs" t="Include" />
+            <e p="StaticDataService" t="Include">
+              <e p="IStaticDataService.cs" t="Include" />
+              <e p="StaticDataService.cs" t="Include" />
+            </e>
+            <e p="Timer" t="Include">
+              <e p="ITimerService.cs" t="Include" />
+              <e p="TimerService.cs" t="Include" />
+            </e>
+          </e>
+          <e p="StaticData" t="Include">
+            <e p="LevelStaticData" t="Include">
+              <e p="LevelStaticData.cs" t="Include" />
+              <e p="LevelType.cs" t="Include" />
+            </e>
+            <e p="PlayerStaticData" t="Include">
+              <e p="PlayerStaticData.cs" t="Include" />
+            </e>
+          </e>
+          <e p="UI" t="Include">
+            <e p="Elements" t="Include">
+              <e p="Buttons" t="Include">
+                <e p="RetryButton.cs" t="Include" />
+              </e>
+              <e p="LevelPlaytimeDisplayer" t="Include">
+                <e p="PlaytimeDisplayer.cs" t="Include" />
+              </e>
+              <e p="LoadingCurtain" t="Include">
+                <e p="LoadingCurtain.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Factories" t="Include">
+              <e p="IUIFactory.cs" t="Include" />
+              <e p="UIFactory.cs" t="Include" />
+            </e>
+            <e p="Hud" t="Include">
+              <e p="PlayerHud.cs" t="Include" />
+              <e p="PlayerLifebar.cs" t="Include" />
+            </e>
+            <e p="Services" t="Include">
+              <e p="WindowService" t="Include">
+                <e p="IWindowService.cs" t="Include" />
+                <e p="WindowService.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Windows" t="Include">
+              <e p="LoseWindow.cs" t="Include" />
+              <e p="WindowBase.cs" t="Include" />
+              <e p="WindowType.cs" t="Include" />
+              <e p="WinWindow.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Resources" t="Include">
+          <e p="Materials" t="Include" />
+          <e p="Prefabs" t="Include">
+            <e p="Blocks" t="Include" />
+            <e p="Bootstrap" t="Include" />
+            <e p="LoadingCurtain" t="Include" />
+            <e p="Player" t="Include" />
+            <e p="Tiles" t="Include">
+              <e p="FinishTiles" t="Include" />
+              <e p="RoadTiles" t="Include" />
+              <e p="StartingTile" t="Include" />
+            </e>
+            <e p="UI" t="Include">
+              <e p="Windows" t="Include" />
+            </e>
+            <e p="Updater" t="Include" />
+          </e>
+          <e p="StaticData" t="Include">
+            <e p="Levels" t="Include" />
+            <e p="PlayerConfig" t="Include" />
+          </e>
+        </e>
+        <e p="Scenes" t="Include" />
+        <e p="TextMesh Pro" t="Include">
+          <e p="Documentation" t="Include" />
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="Fonts &amp; Materials" t="Include" />
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Sprite Assets" t="Include" />
+            <e p="Style Sheets" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+            <e p="EmojiOne.json" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="LestaGamesAcademyTestTask.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

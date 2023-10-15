@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b9300d0d-6e9b-49d1-b9be-d4b6ac2a0466" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Infrastructure/Factories/GameFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Code/Logic/PlayerLogic/PlayerCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.core@12.1.12/Runtime/Debugging/DebugUpdater.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Player/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Services/Timer/ITimerService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/PlayerLogic/PlayerCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/PlayerLogic/PlayerDeath.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/PlayerLogic/PlayerJump.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Infrastructure/StateMachine/GameStateMachine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Infrastructure/StateMachine/States/GameOverState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Tiles/FinishTile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/PlayerLogic/PlayerHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/UI/Elements/LevelPlaytimeDisplayer/PlaytimeDisplayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Services/Timer/TimerService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Traps/WindTrap.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Traps/DamagingTarp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Traps/DamageTarp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Traps/DamageTrap/DamageTrapState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Traps/DamageTrap/States/DamageTrapStateMachine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Traps/DamageTrap/States/DamageTrapState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Traps/DamageTrap/States/EnabledState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Traps/DamageTrap/States/ReloadState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Traps/DamageTrap/States/DisabledState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Traps/DamageTrap/DamageTarp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Traps/DamageTrap/States/DamageState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Traps/WindTrap/WindTrap.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Tiles/Block.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Blocks/WindTrap/WindTrap.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Blocks/DefaultBlock/DefaultBlock.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Blocks/Block.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Tiles/Tile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Services/InputService/IInputService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Services/InputService/DesctopInputService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/PlayerLogic/PlayerMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/PlayerLogic/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/StaticData/PlayerStaticData/PlayerStaticData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Blocks/BlockType.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Blocks/UpAndDown/UpAndDownTrap.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Infrastructure/StateMachine/States/GameState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Infrastructure/StateMachine/States/BootstrapState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/UI/Elements/Buttons/RetryButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Blocks/DamageTrap/DamageTarp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Blocks/DamageTrap/States/DamageState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Blocks/DamageTrap/States/DisabledState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Blocks/DamageTrap/States/EnabledState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/Blocks/DamageTrap/States/ReloadState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/StartTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/DeathZone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Infrastructure/Factories/IGameFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Infrastructure/Factories/GameFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Logic/DeathZoneTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Services/LevelGenerationService/LevelGenerationService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/StaticData/LevelStaticData/LevelStaticData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Code/Infrastructure/Constants/PrefabPaths.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2WWywCyk4UkWainnkfcW1PVt7j0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9300d0d-6e9b-49d1-b9be-d4b6ac2a0466" name="Default Changelist" comment="" />
+      <created>1696862866793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696862866793</updated>
+      <workItem from="1696862870256" duration="2697000" />
+      <workItem from="1696875035859" duration="4165000" />
+      <workItem from="1696921827322" duration="5067000" />
+      <workItem from="1696928224865" duration="2262000" />
+      <workItem from="1696930837399" duration="2580000" />
+      <workItem from="1696934845830" duration="4572000" />
+      <workItem from="1696956168828" duration="914000" />
+      <workItem from="1696963704055" duration="3126000" />
+      <workItem from="1696966878904" duration="904000" />
+      <workItem from="1697003278779" duration="3859000" />
+      <workItem from="1697010312851" duration="3194000" />
+      <workItem from="1697015481060" duration="3099000" />
+      <workItem from="1697047886161" duration="4860000" />
+      <workItem from="1697089764789" duration="3999000" />
+      <workItem from="1697099357354" duration="288000" />
+      <workItem from="1697129570436" duration="4527000" />
+      <workItem from="1697172336582" duration="7112000" />
+      <workItem from="1697189839628" duration="235000" />
+      <workItem from="1697195067735" duration="4194000" />
+      <workItem from="1697223481600" duration="5442000" />
+      <workItem from="1697285253695" duration="1530000" />
+      <workItem from="1697309688513" duration="729000" />
+      <workItem from="1697344573137" duration="3792000" />
+      <workItem from="1697363577939" duration="1437000" />
+      <workItem from="1697373583946" duration="282000" />
+      <workItem from="1697382984229" duration="650000" />
+      <workItem from="1697383661714" duration="221000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="554" y="158" key="RiderGenerateDialog" timestamp="1697176159437">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state x="554" y="158" key="RiderGenerateDialog/0.0.1536.912@0.0.1536.912" timestamp="1697176159437" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1697175737181">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.912@0.0.1536.912" timestamp="1697175737181" />
+    <state x="385" y="94" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1697346741273">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state x="385" y="94" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.912@0.0.1536.912" timestamp="1697346741273" />
+    <state x="431" y="193" width="672" height="678" key="search.everywhere.popup" timestamp="1697383673034">
+      <screen x="0" y="0" width="1536" height="912" />
+    </state>
+    <state x="431" y="193" width="672" height="678" key="search.everywhere.popup/0.0.1536.912@0.0.1536.912" timestamp="1697383673034" />
+  </component>
+</project>
